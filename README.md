@@ -4,7 +4,7 @@
 
 ## ❗️About
 
-<h3>A simple numbers drawer, with entries for numbers to be drawn and entries for maximum and minimum</h3>
+<h3>A page to rent some card board games created to improve JS skills</h3>
 
 <br>
 
